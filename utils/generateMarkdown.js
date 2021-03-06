@@ -15,7 +15,7 @@ ${data.description}
 ${data.installation}
 ## License
 ${data.license}
-## Test
+## Tests
 ${data.tests}
 ## Questions
 ${data.questions}

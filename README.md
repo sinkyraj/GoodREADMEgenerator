@@ -1,7 +1,7 @@
-# my projects title is ReadmeGenerate
+# my project name is Readmegenerator
   ![GitHub license](https://img.shields.io/badge/license-Academic-orange.svg)
   ## Description
-Its project about what I learn about node and NPM
+this project is about my learning process og node and NPM
 ## Table of content
 * [Installation](#installation)
 * [License](#license)
@@ -10,13 +10,13 @@ Its project about what I learn about node and NPM
 * [Username](#username)
 * [Email](#email)
 ## Installation
-yes, I installed node and npm inquirer
+yes, I intalled node and NPM
 ## License
 Academic
-## Test
-yes, I test it here at command prompt
+## Tests
+yes, I tested through command using node
 ## Questions
-just read through the code and solve it
+just read through the code to splve the problem
 ## Username
 sinkyraj
 ## Email
