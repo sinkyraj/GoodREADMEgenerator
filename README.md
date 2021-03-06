@@ -1,7 +1,7 @@
-# My project name is ReadmeGenerator
-  ![GitHub license](https://img.shields.io/badge/license-Apache-orange.svg)
+# my projects title is ReadmeGenerate
+  ![GitHub license](https://img.shields.io/badge/license-Academic-orange.svg)
   ## Description
-its a node project
+Its project about what I learn about node and NPM
 ## Table of content
 * [Installation](#installation)
 * [License](#license)
@@ -10,13 +10,13 @@ its a node project
 * [Username](#username)
 * [Email](#email)
 ## Installation
-I installed mm
+yes, I installed node and npm inquirer
 ## License
-Apache
+Academic
 ## Test
-test
+yes, I test it here at command prompt
 ## Questions
-vv
+just read through the code and solve it
 ## Username
 sinkyraj
 ## Email
